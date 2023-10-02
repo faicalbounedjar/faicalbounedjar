@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm faical</h1>
+<h1 align="center">Hi 👋, I'm Faical Bounedjar</h1>
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7DD11&center=true&vCenter=true&width=527&lines=Software+Engineer.;Web+developer.;JavaScript+(REACT+%7C+NODEJS++%7C+EXPRESS+)++.;Python+%7C+PHP+.;Graphic+Designer+.;AI+Enthusiast+." alt="Typing SVG" /></a>
