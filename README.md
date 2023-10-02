@@ -5,9 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7DD11&center=true&vCenter=true&width=527&lines=Software+Engineer.;Web+developer.;JavaScript+(REACT+%7C+NODEJS++%7C+EXPRESS+)++.;Python+%7C+PHP+.;Graphic+Designer+.;AI+Enthusiast+." alt="Typing SVG" /></a>
 </div>
 
-- 👨‍💻 All of my projects are available at [x](x)
-
-- 💬 Ask me about **JavaScript, React ,Java,Express,NodeJs,and Python or Graphic Design**
+- 👨‍💻 I'm a Software Engineer  with a strong foundation in web development using JS, React, Node.js, and Express. I'm also well-versed in crafting cool UIs with Tailwind CSS and have additional knowledge in PHP and Python.
 
 - 📫 How to reach me **faicalbounedjar4real@gmail.com**
 
