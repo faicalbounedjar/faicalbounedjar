@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7DD11&center=true&vCenter=true&width=527&lines=Software+Engineer.;Web+developer.;JavaScript+(REACT+%7C+NODEJS++%7C+EXPRESS+)++.;Python+%7C+PHP+.;Graphic+Designer+.;AI+Enthusiast+." alt="Typing SVG" /></a>
 </div>
 
-- 👨‍💻 I'm a Software Engineer  with a strong foundation in web development using JS, React, Node.js, and Express. I'm also well-versed in crafting cool UIs with Tailwind CSS and have additional knowledge in PHP and Python.
+- 👨‍💻 I'm a Software Engineer  with a strong foundation in web development using JS, React, Node.js, and Express. Proficient in crafting cool UIs with Tailwind CSS and have additional knowledge in PHP and Python.
 
 - Passionate about learning new technologies and approaches, especially as a software engineering graduate. I continually sought to expand my skills and knowledge
 
