@@ -1,7 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm faical</h1>
-<h3 align="center">Software Engineer | Web developer | JS (REACT , NODEJS , EXPRESS ) | Python (Fastapi) | PHP | Graphic Designer | AI Enthusiast .</h3>
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7DD11&center=true&vCenter=true&width=527&lines=Software+Engineer.;Web+developer.;JavaScript+(REACT+%7C+NODEJS++%7C+EXPRESS+)++.;Python+%7C+PHP+.;Graphic+Designer+.;AI+Enthusiast+.)](https://git.io/typing-svg)
 
 
 - 👨‍💻 All of my projects are available at [x](x)
