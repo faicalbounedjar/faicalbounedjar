@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm faical</h1>
 <h3 align="center">Software Engineer | Web developer | JS (REACT , NODEJS , EXPRESS ) | Python (Fastapi) | PHP | Graphic Designer | AI Enthusiast .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faicalbounedjar&label=Profile%20views&color=0e75b6&style=flat" alt="faicalbounedjar" /> </p>
 
-- 🌱 I’m currently learning **React Native , Mongodb**
 
 - 👨‍💻 All of my projects are available at [x](x)
 
@@ -13,6 +11,8 @@
 - 📫 How to reach me **faicalbounedjar4real@gmail.com**
 
 - ⚡ Fun fact **I am a fast learner and a designer too xD**
+
+- 🌱 I’m currently learning **React Native , Mongodb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
