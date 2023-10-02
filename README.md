@@ -26,8 +26,6 @@
 - 📚 Passionate about learning new technologies and approaches, especially as a software engineering graduate. I continually sought to expand my skills and knowledge
 
 - ? Ask me About  `Javascript` , `PHP`, `Python` , `express` , `nodejs` and `React` , or any topic related to web development. I'm here to share because **Sharing is caring**.
-  
-- 📫 How to reach me **faicalbounedjar4real@gmail.com**
 
 - ⚡ Fun fact **I am a fast learner and a designer too xD**
 
