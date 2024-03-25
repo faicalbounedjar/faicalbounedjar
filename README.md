@@ -33,6 +33,8 @@
 
 
 
+[![Faiçal's GitHub stats](https://github-readme-stats.vercel.app/api?username=faicalbounedjar&show_icons=true&theme=dark)](https://github.com/faicalbounedjar)
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
