@@ -18,14 +18,14 @@
 ###
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7DD11&center=true&vCenter=true&width=527&lines=Software+Engineer.;Web+developer.;JavaScript+(REACT+%7C+NODEJS++%7C+EXPRESS+)++.;Python+%7C+PHP+.;Graphic+Designer+.;AI+Enthusiast+." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7DD11&center=true&vCenter=true&width=527&lines=Software+Engineer.;FullStack+Web+developer.;JavaScript+Stack;(REACT+%7C+NextJS+%7C+NODEJS++%7C+EXPRESS+)++.;Python+Stack;(Django+%7C+FastAPI)+.;Mobile+Developer;(React+Native+%7C+NativeWind)+.;System+Monitoring;(Docker+%7C+Prometheus)+.;Graphic+Designer+.;AI+Enthusiast+." alt="Typing SVG" /></a>
 </div>
 
 - 👨‍💻 I'm a Software Engineer  with a strong foundation in web development using JS, React, Node.js, and Express. Proficient in crafting cool UIs with Tailwind CSS and have additional knowledge in PHP and Python.
 
 - 📚 Passionate about learning new technologies and approaches, especially as a software engineering graduate. I continually sought to expand my skills and knowledge
 
-- ? Ask me About  `Javascript` , `PHP`, `Python` , `express` , `nodejs` and `React` , or any topic related to web development. I'm here to share because **Sharing is caring**.
+- ? Ask me About  `Javascript` , `Python` , `Django` , `React JS` , `Next JS` , `express` , `nodejs` and `React Native` , or any topic related to web development. I'm here to share because **Sharing is caring**.
 
 - ⚡ Fun fact **I am a fast learner and a designer too xD**
 
